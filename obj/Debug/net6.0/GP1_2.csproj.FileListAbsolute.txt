@@ -1,0 +1,14 @@
+C:\Users\dani1\source\repos\GP1_2\obj\Debug\net6.0\GP1_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dani1\source\repos\GP1_2\obj\Debug\net6.0\GP1_2.AssemblyInfoInputs.cache
+C:\Users\dani1\source\repos\GP1_2\obj\Debug\net6.0\GP1_2.AssemblyInfo.cs
+C:\Users\dani1\source\repos\GP1_2\obj\Debug\net6.0\GP1_2.csproj.CoreCompileInputs.cache
+C:\Users\dani1\source\repos\GP1_2\bin\Debug\net6.0\GP1_2.exe
+C:\Users\dani1\source\repos\GP1_2\bin\Debug\net6.0\GP1_2.deps.json
+C:\Users\dani1\source\repos\GP1_2\bin\Debug\net6.0\GP1_2.runtimeconfig.json
+C:\Users\dani1\source\repos\GP1_2\bin\Debug\net6.0\GP1_2.dll
+C:\Users\dani1\source\repos\GP1_2\bin\Debug\net6.0\GP1_2.pdb
+C:\Users\dani1\source\repos\GP1_2\obj\Debug\net6.0\GP1_2.dll
+C:\Users\dani1\source\repos\GP1_2\obj\Debug\net6.0\refint\GP1_2.dll
+C:\Users\dani1\source\repos\GP1_2\obj\Debug\net6.0\GP1_2.pdb
+C:\Users\dani1\source\repos\GP1_2\obj\Debug\net6.0\GP1_2.genruntimeconfig.cache
+C:\Users\dani1\source\repos\GP1_2\obj\Debug\net6.0\ref\GP1_2.dll
